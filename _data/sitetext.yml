@@ -12,6 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welcome!
+    description: |
+      Westcreek Neighborhood Association is a non-profit organization that represents the residents of the Westcreek neighborhood in Austin, Texas.
+      We are dedicated to improving the quality of life in our neighborhood through community involvement. We are not an HOA, and our neighborhood has no HOA.
 
   services:
     title: "Services"
@@ -36,6 +39,8 @@ en: &DEFAULT_EN
         icon: "fab fa-nextdoor"
       - url: https://github.com/westcreekna/westcreekna.github.io
         icon: "fab fa-github"
+      - url: https://westcreekna.us1.list-manage.com/subscribe?u=e07350e0fb29ff81fd364c365&id=ed3bf74a39
+        icon: "fas fa-mailchimp"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
